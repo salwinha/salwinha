@@ -4,13 +4,15 @@
  ---
 
 ### :woman_technologist: About Me :
- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+ Recém-formada no ensino médio e ansiosa para mergulhar no mundo da tecnologia, estou atualmente cursando Sistemas de Informação na Universidade Católica de Santos. Apaixonada por análise de dados e programação em Python, estou prestes a concluir o curso de Análise de Dados com Python na EBAC, aprimorando minhas habilidades na transformação de dados em insights significativos. Embora meu percurso profissional seja incipiente, estou determinada a construir uma carreira sólida na interseção da tecnologia e análise de dados.
+
+Para contatos meu e-mail é: salwariadelmaltsalwa@gmail.comRecém-formada no ensino médio e ansiosa para mergulhar no mundo da tecnologia, estou atualmente cursando Sistemas de Informação na Universidade Católica de Santos. Apaixonada por análise de dados e programação em Python, estou prestes a concluir o curso de Análise de Dados com Python na EBAC, aprimorando minhas habilidades na transformação de dados em insights significativos. Embora meu percurso profissional seja incipiente, estou determinada a construir uma carreira sólida na interseção da tecnologia e análise de dados. Para contatos meu e-mail é: salwariadelmaltsalwa@gmail.com <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  - :telescope: Estou estudando Sistemas de Informação na Universidade Católica de Santos e Análise de Dados com Python na EBAC
 
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Explorando sobre python/SQL/Power BI/Banco de Dados.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
   ---
