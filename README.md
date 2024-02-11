@@ -14,7 +14,7 @@ Para contatos meu e-mail é: salwariadelmaltsalwa@gmail. <img src="https://media
 
 
 
-- :mailbox:How to reach me: https://www.linkedin.com/in/salwa-riad-el-malt-2baa0a260/
+- :my Linkedin: https://www.linkedin.com/in/salwa-riad-el-malt-2baa0a260/
   ---
 
 
